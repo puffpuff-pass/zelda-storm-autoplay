@@ -57,4 +57,4 @@ Change the city in the script if you want weather-triggered playback for another
 
 
 
-Enjoy your rain-powered Zelda vibes! 🌧🎶🌿
+Enjoy your rainy lofi kinda day coding! 🌧🎶🌿
