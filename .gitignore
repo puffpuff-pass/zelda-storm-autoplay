@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# editor
+.vscode/*
+!.vscode/tasks.json   # keep your auto-run task
+
+# os
+.DS_Store
+Thumbs.db
+
+# media (dont publish copyrighted music)
+*.mp3
+*.wav
+*.flac
