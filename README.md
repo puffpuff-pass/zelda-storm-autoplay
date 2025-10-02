@@ -1,4 +1,4 @@
-# 🌧️🎶 Zelda Storm Autoplay  
+# 🌧️ Zelda Storm Autoplay 🧝 
 
 A fun Python script that plays **Zelda lofi** automatically when it rains in Honolulu — or anytime you force it 🌿✨.  
 
